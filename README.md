@@ -1,2 +1,2 @@
 # PHP-Pagination
-Pagination work with php and bootstrap
+generating pagination with php and bootsrap
